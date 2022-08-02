@@ -62,3 +62,4 @@ You can write your SQL queries directly in the `clues.sql` file. Then, from with
 1.  All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
 # SQL-Carman
+# SQL-Carman
