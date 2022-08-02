@@ -1,5 +1,3 @@
-[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
-
 # Where In The World Is Carmen Sandiego?
 
 ![carmen-sandiego](https://camo.githubusercontent.com/b50a6155810da803a9b420ae0bd403317afd341d/687474703a2f2f692e67697068792e636f6d2f31336e38747852386339554448472e676966)
